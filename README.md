@@ -1,2 +1,2 @@
 # Playstation-bot
-Just teting for now
+Just testing for now
